@@ -2,12 +2,11 @@
 
 Cognifyz Technologies — Data Analytics Internship
 
-""Python" (https://img.shields.io/badge/Python-Analysis-blue?logo=python)" (https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)](https://www.python.org/)
 
-""Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)"
-(https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
 
-""Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)" (https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 
 📌 Project Overview
 
