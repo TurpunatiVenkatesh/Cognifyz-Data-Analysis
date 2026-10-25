@@ -1,8 +1,11 @@
 🍽️ Restaurant Online Delivery Analysis
 
 "Python" (https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
+
 "Pandas" (https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas)
+
 "Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 "Status" (https://img.shields.io/badge/Status-Analysis%20Complete-success)
 
 A data analytics project completed as part of the Cognifyz Technologies Data Analytics Internship. This project explores restaurant online delivery availability and compares average restaurant ratings between restaurants that offer online delivery and those that do not.
@@ -21,8 +24,11 @@ Tools Used
 📊 Key Findings
 
 Metric| No Online Delivery| Online Delivery
+
 Restaurant Count| 7,100| 2,451
+
 Percentage| 74.34%| 25.66%
+
 Average Rating| 2.47| 3.25
 
 Key insight: Restaurants offering online delivery have an average rating approximately 0.78 points higher than restaurants without online delivery in this dataset.
@@ -82,5 +88,7 @@ Further analysis would be needed to investigate other factors that may influence
 ---
 
 Internship Organization: Cognifyz Technologies
+
 Track: Data Analytics
+
 Project: Online Delivery Analysis
