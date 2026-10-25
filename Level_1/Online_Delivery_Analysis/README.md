@@ -3,7 +3,10 @@
 Cognifyz Technologies — Data Analytics Internship
 
 ""Python" (https://img.shields.io/badge/Python-Analysis-blue?logo=python)" (https://www.python.org/)
-""Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)" (https://pandas.pydata.org/)
+
+""Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)"
+(https://pandas.pydata.org/)
+
 ""Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)" (https://jupyter.org/)
 
 📌 Project Overview
@@ -32,15 +35,21 @@ Jupyter Notebook| Interactive analysis and documentation
 The analysis covers 9,551 restaurants.
 
 Performance Metric| No Online Delivery| Online Delivery
+
 Restaurant Count| 7,100| 2,451
+
 Share of Restaurants| 74.34%| 25.66%
+
 Average Aggregate Rating| 2.47| 3.25
 
 Key Insights
 
 - Delivery availability: Online delivery is available at 25.66% of the restaurants analyzed.
+- 
 - Limited adoption: 74.34% of the restaurants in this dataset do not offer online delivery.
+  
 - Rating comparison: Restaurants offering online delivery have an average aggregate rating of approximately 3.25, compared with 2.47 for restaurants without delivery.
+  
 - Observed difference: The average rating gap is approximately 0.78 points.
 
 These findings describe patterns in the dataset. They do not establish that online delivery causes higher restaurant ratings.
