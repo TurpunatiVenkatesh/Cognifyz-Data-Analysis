@@ -44,7 +44,6 @@ Average Aggregate Rating| 2.47| 3.25
 Key Insights
 
 - Delivery availability: Online delivery is available at 25.66% of the restaurants analyzed.
-- 
 - Limited adoption: 74.34% of the restaurants in this dataset do not offer online delivery.
   
 - Rating comparison: Restaurants offering online delivery have an average aggregate rating of approximately 3.25, compared with 2.47 for restaurants without delivery.
