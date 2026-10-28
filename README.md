@@ -1,56 +1,55 @@
-Restaurant Online Delivery Analysis
+<h1 align="center">Cognifyz Data Analytics Internship</h1>
 
-Cognifyz Technologies — Data Analytics Internship
+<p align="center">
+Turning 9,551 restaurant records into clear, actionable business insights.
+</p>
 
-This project analyzes online food delivery availability and restaurant ratings using the Zomato dataset.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Level%201-Completed-2A9D8F?style=for-the-badge">
+</p>
 
-Tools Used
+---
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## Overview
 
-Key Findings
+An end-to-end exploratory analysis of the Zomato restaurant dataset, covering cuisine demand, city performance, pricing structure and online delivery impact.
 
-- Restaurants offering online delivery: 25.66%
-- Restaurants not offering online delivery: 74.34%
-- Average rating with online delivery: 3.25
-- Average rating without online delivery: 2.47
+## Level 1: Key Insights
 
-Visualizations
+| Analysis | Key Finding |
+|---|---|
+| **Top Cuisines** | North Indian dominates with **41.46%** of restaurants, followed by Chinese (28.64%) and Fast Food (20.79%) |
+| **City Analysis** | New Delhi leads with **5,473** restaurants; London is the top-rated city at **4.54** (cities with 20+ restaurants) |
+| **Price Range** | Budget segment holds **46.53%** of the market; premium segment only 6.14% |
+| **Online Delivery** | Only **25.66%** offer delivery, yet they average **3.25** vs 2.47 without it |
 
-1. Online Delivery Availability
+## Business Takeaways
 
-![Online Delivery Availability](Online_Delivery_Percentage%20(1).png)
+- Affordable, North Indian and Chinese cuisines capture the largest share of demand.
+- Delhi NCR is highly saturated with lower average ratings, signalling a quality gap.
+- Delivery-enabled restaurants rate higher, showing a clear expansion opportunity.
 
-This chart compares the percentage of restaurants that offer online delivery with those that do not.
+## Repository Structure
 
-2. Average Rating Comparison
+- `Level_1/Top_Cuisines`
+- `Level_1/City_Analysis`
+- `Level_1/Price_Range`
+- `Level_1/Online_Delivery_Analysis`
 
-![Average Rating Comparison](Online_Delivery_Rating_Comparison.png)
+Each folder contains the notebook, result tables (CSV) and visualizations (PNG).
 
-Restaurants offering online delivery have a higher average rating (3.25) than restaurants without online delivery (2.47). This shows an association in this dataset, not proof that delivery causes higher ratings.
+## Tech Stack
 
-Files Included
+Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 
-- "Cognifyz_Online_Delivery.ipynb" — analysis notebook
-- "Online_Delivery_Percentage.png" — delivery availability chart
-- "Online_Delivery_Rating_Comparison.png" — rating comparison chart
-- "Online_Delivery_Results.csv" — analysis results
+## Author
 
-Conclusion
+**Turpunati Venkatesh**
+Data Analytics Intern | Aspiring Business Analyst
 
-In this dataset, approximately one in four restaurants offers online delivery. Restaurants offering online delivery also have a higher average rating. Restaurants may investigate online delivery as a way to improve customer convenience and experience.
+[LinkedIn](https://www.linkedin.com/in/turpunati-venkatesh-440b3b301) · [GitHub](https://github.com/TurpunatiVenkatesh)
 
-Methodology
-
-The dataset was loaded using Pandas. Restaurants were grouped by online delivery availability, percentages were calculated, and average ratings were compared. Matplotlib was used to create the visualizations.
-
-Internship
-
-Organization: Cognifyz Technologies
-
-Project: Data Analytics Internship
-
-Task: Online Delivery Analysis
+<p align="center"><i>#cognifyz #cognifyzTech #cognifyzTechnologies</i></p>
